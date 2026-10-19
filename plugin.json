@@ -1,0 +1,34 @@
+{
+  "name": "new-year-countdown",
+  "author": "Fly1018",
+  "url": "https://github.com/Fly1018/new-year-countdown",
+  "version": "0.2.2",
+  "minAppVersion": "3.8.0",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "desktop",
+    "desktop-window",
+    "browser-desktop"
+  ],
+  "displayName": {
+    "default": "New Year Countdown",
+    "zh_CN": "新年倒计时",
+    "en_US": "New Year Countdown"
+  },
+  "description": {
+    "default": "New Year Countdown for SiYuan.",
+    "zh_CN": "新年倒计时：思源笔记插件。",
+    "en_US": "New Year Countdown for SiYuan."
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README.zh-CN.md",
+    "en_US": "README.md"
+  },
+  "keywords": [
+    "new-year-countdown",
+    "siyuan"
+  ]
+}
